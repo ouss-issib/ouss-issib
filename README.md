@@ -1,5 +1,5 @@
 ![👋 Hi, my name is Galaxi Ouss](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-![Header](./your-header-image-name.png)
+![Header](./file:///C:/Users/hp/AppData/Roaming/Microsoft/Windows/Network%20Shortcuts/github-header-image.png)
 ![Profile views](https://komarev.com/ghpvc/?username=oussama-issib&label=Profile%20views&color=0e75b6&style=flat)
 
 <div id="toc">
