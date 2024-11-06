@@ -1,4 +1,4 @@
-![👋 Hi, my name is Galaxi Ouss](![Header](./github-header-image.png))
+(![Header](github-header-image.png))
 
 ![Profile views](https://komarev.com/ghpvc/?username=oussama-issib&label=Profile%20views&color=0e75b6&style=flat)
 
