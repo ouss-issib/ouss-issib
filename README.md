@@ -13,7 +13,7 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/oussama-issib" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://github.com/ouss-issib" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">🚀Dynamic full-stack web developer, dedicated to building high-performance, scalable web applications. Expert in front-end and back-end tech, focusing on user experience, performance optimization, and clean, maintainable code.</h3>**
 
